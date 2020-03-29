@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 Turbine uses Firebase Authentication to create user accounts. Other than your authentication details, Turbine stores recently viewed spots, user-created lists, check-ins and condition reports. This data only stored as a means of surfacing features such as a list of recently viewed items and is only ever collected as a result of clear, user-initiated actions.
 
