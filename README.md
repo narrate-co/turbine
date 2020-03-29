@@ -2,6 +2,9 @@
 
 Turbine is a kitesurf forecasting platform that connects kite spots, conditions and the community.
 
+![](screenshots/appstore_1.png)             |  ![](screenshots/appstore_2.png)             |  ![](screenshots/appstore_3.png)             |  ![](screenshots/appstore_4.png)             |  ![](screenshots/appstore_5.png)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+
 Social features:
 * Check-in to spots to let others know who's there
 * Report local wind and kite conditions for spots
