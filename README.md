@@ -10,7 +10,7 @@ Turbine is a kitesurf forecasting platform that connects kite spots, conditions 
 <a href="https://play.google.com/store/apps/details?id=space.narrate.tate" target="_blank">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
 
-Turbine, at its core, is a wind & forecasting app, powered by iKitesurf, that enables you to easily check kitesurfing conditions at your local spot(s) or when exploring new locations. 
+Turbine is powered by iKitesurf and enables you to easily check kitesurfing conditions at your local spot(s) or when exploring new locations. 
 
 On top of its wind & forecasting functionality, Turbine builds unique features specific to kitesurfing, like the ability to record sessions and view statistics like time on the water, average session duration, quiver usage, discipline preferences, most ridden spots, and more. As you record sessions, Turbine learns the conditions in which you ride and is able to give real-time, personalized recommendations for the best kite & discipline for a given spot, right now.  Additionally, Turbine brings the kiting community online by allowing check-ins, condition reporting, and chats for spots. Checking-in to a spot will show your avatar next to the spot on the map and let others know who is kiting where. Crowd reported conditions and chats offer an alternative to station-reported data and are a great way to see what others are saying about real-time conditions.
 
